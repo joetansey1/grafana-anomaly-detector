@@ -18,6 +18,10 @@ It’s designed to flag large-scale ingestion or replication lag spikes across d
 ## Requirements
 
 - Python 3.9+
+- pandas>=1.5
+numpy>=1.23
+matplotlib>=3.7
+requests>=2.28
 - A locally running LLaMA or Mistral instance with a compatible API (e.g., `http://localhost:11434` for Ollama or `vLLM`).
 - Input CSV with time-indexed lag data.
 
