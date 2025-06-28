@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2025-01-20T22:00:00",
+    "max_lag_minutes": 6739.199999999999,
+    "source": "n406-primary-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_one_day_utc",
+    "breach_level": 2
+  },
+  {
+    "timestamp": "2025-04-14T23:00:00",
+    "max_lag_minutes": 6206.4,
+    "source": "n5-primary-sandbox-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_one_day_utc",
+    "breach_level": 2
+  },
+  {
+    "timestamp": "2025-04-20T23:00:00",
+    "max_lag_minutes": 14817.600000000002,
+    "source": "n5-primary-sandbox-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_one_day_utc",
+    "breach_level": 2
+  },
+  {
+    "timestamp": "2025-04-26T23:00:00",
+    "max_lag_minutes": 23486.4,
+    "source": "n5-primary-sandbox-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_one_day_utc",
+    "breach_level": 2
+  },
+  {
+    "timestamp": "2025-05-02T23:00:00",
+    "max_lag_minutes": 32155.200000000004,
+    "source": "n6-primary-sandbox-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_one_day_utc",
+    "breach_level": 2
+  },
+  {
+    "timestamp": "2025-05-08T23:00:00",
+    "max_lag_minutes": 40723.200000000004,
+    "source": "n6-primary-sandbox-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_one_day_utc",
+    "breach_level": 2
+  },
+  {
+    "timestamp": "2025-05-14T23:00:00",
+    "max_lag_minutes": 49392.0,
+    "source": "n6-primary-sandbox-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_two_week_utc",
+    "breach_level": 2
+  },
+  {
+    "timestamp": "2025-05-20T23:00:00",
+    "max_lag_minutes": 58060.799999999996,
+    "source": "n5-primary-sandbox-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_two_week_utc",
+    "breach_level": 2
+  },
+  {
+    "timestamp": "2025-05-26T23:00:00",
+    "max_lag_minutes": 66729.59999999999,
+    "source": "n5-primary-sandbox-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_two_week_utc",
+    "breach_level": 2
+  },
+  {
+    "timestamp": "2025-06-01T23:00:00",
+    "max_lag_minutes": 75297.59999999999,
+    "source": "n6-primary-sandbox-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_two_week_utc",
+    "breach_level": 2
+  },
+  {
+    "timestamp": "2025-06-07T23:00:00",
+    "max_lag_minutes": 6984.0,
+    "source": "n7-primary-sandbox-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_one_day_utc",
+    "breach_level": 2
+  }
+]
