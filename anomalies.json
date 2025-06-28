@@ -1,10 +1,5 @@
 [
-  {
-    "timestamp": "2025-01-20T22:00:00",
-    "max_lag_minutes": 6739.199999999999,
-    "source": "n406-primary-meraki-com.usage.mfr_os_suite.net_tag_node_tag_ssid_client_kb_mfr_os_approx_one_day_utc",
-    "breach_level": 2
-  },
+
   {
     "timestamp": "2025-04-14T23:00:00",
     "max_lag_minutes": 6206.4,
