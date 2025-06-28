@@ -25,6 +25,10 @@ requests>=2.28
 - A locally running LLaMA or Mistral instance with a compatible API (e.g., `http://localhost:11434` for Ollama or `vLLM`).
 - Input CSV with time-indexed lag data.
 
+⚠️ This project requires a local Ollama instance running the llama2 or mistral model.
+You can install it from https://ollama.com and run:
+
+ollama run mistral
 ## Coming Soon
 
 - Integration with  dashboards
