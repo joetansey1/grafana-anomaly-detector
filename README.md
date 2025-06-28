@@ -29,6 +29,12 @@ requests>=2.28
 You can install it from https://ollama.com and run:
 
 ollama run mistral
+
+## Demo
+```bash
+python lag_anomaly_check.py
+python plot_it.py
+
 ## Coming Soon
 
 - Integration with  dashboards
